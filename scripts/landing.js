@@ -17,7 +17,7 @@ function getVideoId(url) {
 
 goButton.addEventListener('click', function (event) {
     const videoId = getVideoId(textField.value);
-    location.href = '/notes?vid=' + videoId;
+    location.href = './notes?vid=' + videoId;
 });
 
 demoButton.addEventListener('click', function(event) {
