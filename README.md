@@ -5,7 +5,7 @@ Lecture Noted generates smart notes that enrich your learning experience from le
 
 <img src="https://github.com/Pranav-Wadhwa/Lecture-Noted/raw/main/logo.png" height="300px" />
 
-Try it out [https://lecturenoted.tech](https://lecturenoted.tech)!
+Try it out [http://vinaybhaip.com/Lecture-Noted/](http://vinaybhaip.com/Lecture-Noted/)!
 
 ### Features
 
